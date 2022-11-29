@@ -105,8 +105,8 @@ class ProcessPDF
     }
 
     /*
-    DEPRECATED
-        USE HANDLE() instead
+        @DEPRECATED
+        @USE HANDLE() instead
     */
     public function downloadPDF()
     {
