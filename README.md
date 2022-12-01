@@ -28,7 +28,7 @@ seguir os passos abaixo:
 * Pronto, se tudo deu certo, uma pasta com o nome _vendor_ será criada dentro da pasta do sistema
 * Agora, é necessário subir um servidor HTTP PHP para isso, utilize o comando:  ``` php -S 127.0.0.1:5500 ```
 * Se a porta (5500) e o endereço (127.0.0.1) estiverem corretos, então, sera possivel através do navegador acessando o endereço 127.0.0.1:5500 utilizar o aplicativo.
-* 
+
 ## ⚙️ Explicação dos arquivos
 
 * __index.html__ -> Página HTML principal para marcação da interface primária do aplicativo.
